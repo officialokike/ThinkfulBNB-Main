@@ -45,6 +45,9 @@ main img {
   flex: 1;
   margin: 10px;
 }
+.item .h2 { 
+ display: flex; 
+ text-alignment: center;}
 
 .item-double {
   flex: 2;
